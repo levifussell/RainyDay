@@ -32,7 +32,7 @@
 			<div class="section">
 			
 				<h1 id="headers" ><a name="index1">Info</a></h1>
-				<div id="Team">	
+				<div id="Team">
 					<table width="60%" align="center">
 						<tr>
 							<td width="20%"><img id="profiles" src=".png" alt="Dashboard" /></td>
