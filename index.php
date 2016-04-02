@@ -49,6 +49,7 @@
 				<?php
 					include("blog_reader.php");
 				?> 
+				<li><a href="blog_set.php" class="on">(new post)</a></li>
 				
 				<p>Team members are: Alistair, Levi, Bhavin, Hemanth, Despoina, Stanislav.
 				</p>
